@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-sequelize-one-to-many",
+  "version": "1.0.0",
+  "description": "Node.js sequelize one to many relationship",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "sequelize",
+    "one-to-many",
+    "association"
+  ],
+  "author": "Manuel Vera",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.5"
+  }
+}
